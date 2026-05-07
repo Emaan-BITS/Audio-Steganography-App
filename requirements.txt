@@ -2,5 +2,5 @@ streamlit
 numpy
 librosa
 soundfile
-pycryptodomex
+pycryptodome
 reedsolo
